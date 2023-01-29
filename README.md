@@ -7,3 +7,5 @@
 Untenstehend ist die visuelle Projektzusammenfassung von **ANTICOVIS** zu finden. Im [**ANTICOVIS**-Wiki](https://github.com/Fuenfgeld/DMA2023TeamB/wiki) sind projektspezifische technische Details, Datenmanagementplan sowie Forschungsergebnisse aufgeführt.
 
 # **Visuelle Projektzusammenfassung von ANTICOVIS**
+
+![Datenflussdiagramm - WIP](https://user-images.githubusercontent.com/122312499/215321014-3fc02b5a-d954-4520-92a7-d8e1a4f633cc.png)
