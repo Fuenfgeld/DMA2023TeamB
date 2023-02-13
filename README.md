@@ -14,15 +14,15 @@ Im obenstehenden [GitHub Repository des Projekts](https://github.com/Fuenfgeld/D
 
 Das [ANTICOVIS-Wiki](https://github.com/Fuenfgeld/DMA2023TeamB/wiki) ist für eine intuitive Einsicht von Sekundärnutzer:innen und Interessierten gemäß unseres Vorgehens im Rahmen des Moduls Datenmanagement und Archivierung aufgebaut:
 
-1) Initiationsphase: Beschreibt unsere initiale interne Quelldatensichtung und darauf basierende Formulierung von Forschungsfrage bzw. Hypothesen.
+1) [**Initiationsphase:**](https://github.com/Fuenfgeld/DMA2023TeamB/wiki/Initiation) Beschreibt unsere initiale interne Quelldatensichtung und darauf basierende Formulierung von Forschungsfrage bzw. Hypothesen.
 
-2) Planungs- und Organisationsphase: Beinhaltet hochrelevante Überlegungen vor der eigentlichen Datenverarbeitung in Form dieses Datenmanagementplans, einer Datenschutzfolgeabschätzung sowie unsere Datenbankerstellung aus selektierten Synthea-Quelldaten.
+2) [**Planungs- und Organisationsphase:**](https://github.com/Fuenfgeld/DMA2023TeamB/wiki/Planung-und-Organisation) Beinhaltet hochrelevante Überlegungen vor der eigentlichen Datenverarbeitung in Form dieses Datenmanagementplans, einer Datenschutzfolgeabschätzung sowie unsere Datenbankerstellung aus selektierten Synthea-Quelldaten.
 
-3) Datenverarbeitungsphase: Diese umfasst den ETL-Prozess des ANTICOVIS-Projekts. Oben beschriebene Quelldaten werden exploriert und hinsichtlich ihrer Datenqualität analysiert. Es wird das Star-Schema beschrieben sowie die Implementierung der Mapping-Tabellen in das ANTICOVIS Data Warehouse beschrieben.
+3) [**Datenverarbeitungsphase:**](https://github.com/Fuenfgeld/DMA2023TeamB/wiki/Datenverarbeitung) Diese umfasst den ETL-Prozess des ANTICOVIS-Projekts. Oben beschriebene Quelldaten werden exploriert und hinsichtlich ihrer Datenqualität analysiert. Es wird das Star-Schema beschrieben sowie die Implementierung der Mapping-Tabellen in das ANTICOVIS Data Warehouse beschrieben.
 
-4) Datenauswertungsphase: Überlegen zielführender Analysepfade und Exploration von Methoden, diese zu realisieren. Ebenfalls werden in unserem Wiki die hieraus resultierenden Ergebnisse beschrieben.
+4) [**Datenauswertungsphase:**](https://github.com/Fuenfgeld/DMA2023TeamB/wiki/Datenauswertung) Überlegen zielführender Analysepfade und Exploration von Methoden, diese zu realisieren. Ebenfalls werden in unserem Wiki die hieraus resultierenden Ergebnisse beschrieben.
 
-5) Projektübersicht: Nach Abschluss der Phasen soll eine um- und zusammenfassende Übersicht des gesamten Prozesses (Datenflussdiagramm), unserer Codes (Übersicht GitHub Repository) sowie unserer benutzten Methoden (Systemumgebung) erstellt werden. Ferner sind hier zentrale Ausführungen zu Data Sharing, Access Management und Archivierung zu hinterlegen.
+5) [**Projektübersicht:**](https://github.com/Fuenfgeld/DMA2023TeamB/wiki/Projekt%C3%BCbersichten) Nach Abschluss der Phasen soll eine um- und zusammenfassende Übersicht des gesamten Prozesses (Datenflussdiagramm), unserer Codes (Übersicht GitHub Repository) sowie unserer benutzten Methoden (Systemumgebung) erstellt werden. Ferner sind hier zentrale Ausführungen zu Data Sharing, Access Management und Archivierung zu hinterlegen.
 
 ## Visuelle Projektzusammenfassung
 
