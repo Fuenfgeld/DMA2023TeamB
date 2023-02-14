@@ -4,7 +4,7 @@
 
 ANTICOVIS ist ein Datenmanagement-Projekt im Rahmen des Zertifikatskurses [Datenmanagement und Archivierung im Umfeld der Forschung](https://www.master-bids.hs-mannheim.de/studienangebot/datenmanagement-und-archivierung-im-umfeld-der-forschung.html), welcher als Modul in den berufsbegleitenden Masterstudiengang  [Biomedizinische Informatik und Data Science](https://www.master-bids.hs-mannheim.de/) der Hochschule Mannheim in Kooperation mit dem [MIRACUM-Konsortium](https://www.medizininformatik-initiative.de/de/konsortien/miracum) und der [Graduate School Rhein Neckar](https://gsrn.de/) integriert ist.
 
-ANTICOVIS basiert auf Patient:innendaten, die durch Synthea erzeugt wurden (Walonoski et al. 2017). Das Projekt hat zum Ziel, ausgehend von erhobenen Quelldaten, den Prozess von Sichtung dieser und einer Formulierung von Fragestellungen bzw. Hypothesen über eine Datenverarbeitung bis hin zur Analyse sowohl in FOrm von Codes, als auch in Form einer dezidierten und klar nachvollziehbaren Dokumentation darzustellen.
+ANTICOVIS basiert auf Patient:innendaten, die durch Synthea erzeugt wurden (Walonoski et al. 2017). Das Projekt hat zum Ziel, ausgehend von erhobenen Quelldaten, den Prozess von Sichtung dieser und einer Formulierung von Fragestellungen bzw. Hypothesen über eine Datenverarbeitung bis hin zur Analyse sowohl in Form von Codes, als auch in Form einer dezidierten und klar nachvollziehbaren Dokumentation darzustellen.
 
 ## Dokumentation der Codes
 
