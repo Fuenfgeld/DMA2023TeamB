@@ -30,4 +30,4 @@ Untenstehend ist die visuelle Projektzusammenfassung von **ANTICOVIS** zu finden
 
 # **Visuelle Projektzusammenfassung von ANTICOVIS**
 
-![Projektübersicht](https://github.com/Fuenfgeld/DMA2023TeamB/blob/main/Darstellungen/Projekt%C3%BCbersicht%20ANTICOVIS.pdf)
+![Projektübersicht](https://github.com/Fuenfgeld/DMA2023TeamB/blob/main/Darstellungen/Projekt%C3%BCbersicht%20ANTICOVIS.jpg)
