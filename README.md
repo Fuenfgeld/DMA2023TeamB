@@ -18,7 +18,7 @@ Das [ANTICOVIS-Wiki](https://github.com/Fuenfgeld/DMA2023TeamB/wiki) ist für ei
 
 2) [**Planungs- und Organisationsphase:**](https://github.com/Fuenfgeld/DMA2023TeamB/wiki/Planung-und-Organisation) Beinhaltet hochrelevante Überlegungen vor der eigentlichen Datenverarbeitung in Form dieses Datenmanagementplans, einer Datenschutzfolgeabschätzung sowie unsere Datenbankerstellung aus selektierten Synthea-Quelldaten.
 
-3) [**Datenverarbeitungsphase:**](https://github.com/Fuenfgeld/DMA2023TeamB/wiki/Datenverarbeitung) Diese umfasst den ETL-Prozess des ANTICOVIS-Projekts. Oben beschriebene Quelldaten werden exploriert und hinsichtlich ihrer Datenqualität analysiert. Es wird das Star-Schema beschrieben sowie die Implementierung der Mapping-Tabellen in das ANTICOVIS Data Warehouse beschrieben.
+3) [**Datenverarbeitungsphase:**](https://github.com/Fuenfgeld/DMA2023TeamB/wiki/Datenverarbeitung) Diese umfasst den ETL-Prozess des ANTICOVIS-Projekts. Oben beschriebene Quelldaten werden exploriert und hinsichtlich ihrer Datenqualität analysiert.Es werden das Star-Schema sowie die Verwendung externer Daten (MED_Classification und COV_Grading), "Pseudonymisierung" sowie die Implementierung der Mapping-Tabellen in das ANTICOVIS Data Warehouse beschrieben.
 
 4) [**Datenauswertungsphase:**](https://github.com/Fuenfgeld/DMA2023TeamB/wiki/Datenauswertung) Überlegen zielführender Analysepfade und Exploration von Methoden, diese zu realisieren. Ebenfalls werden in unserem Wiki die hieraus resultierenden Ergebnisse beschrieben.
 
