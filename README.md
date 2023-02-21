@@ -6,6 +6,10 @@ ANTICOVIS ist ein Datenmanagement-Projekt im Rahmen des Zertifikatskurses [Daten
 
 ANTICOVIS basiert auf Patient:innendaten, die durch Synthea erzeugt wurden (Walonoski et al. 2017). Das Projekt hat zum Ziel, ausgehend von erhobenen Quelldaten, den Prozess von Sichtung dieser und einer Formulierung von Fragestellungen bzw. Hypothesen über eine Datenverarbeitung bis hin zur Analyse sowohl in Form von Codes, als auch in Form einer dezidierten und klar nachvollziehbaren Dokumentation darzustellen.
 
+Das Projekt orientiert sich dabei an der Data Roadmap nach Briney et al., welche 2015 im Buch "Data Management for Researchers" erstmals vorgestellt wurde. Sie beschreibt den Lebenszyklus der Daten, beginnend von der [Planung](https://github.com/Fuenfgeld/DMA2023TeamB/wiki/Planung-und-Organisation) über [Datenverarbeitung](https://github.com/Fuenfgeld/DMA2023TeamB/wiki/Datenverarbeitung) und [-auswertung](https://github.com/Fuenfgeld/DMA2023TeamB/wiki/Datenauswertung), lässt dabei die zunehmend wichtiger werdenden Aspekte einer [Langzeitaufbewahrung und Nachnutzbarkeit](https://github.com/Fuenfgeld/DMA2023TeamB/wiki/Data-Sharing,-Access-und-Archivierung) nicht außer acht. Diese Elemente sind in unserem Wiki, wie [nachfolgend diskutiert](https://github.com/Fuenfgeld/DMA2023TeamB#dokumentation-des-projekts-im-anticovis-wiki), nachvollziehbar dokumentiert.
+
+![Data Roadmap](https://github.com/Fuenfgeld/DMA2023TeamB/blob/main/Darstellungen/Data_Roadmap_Briney.png)
+
 ## Dokumentation der Codes
 
 Im obenstehenden [GitHub Repository des Projekts](https://github.com/Fuenfgeld/DMA2023TeamB) sind die Codes des Projekts zum Aufbau einer initialen SQL-Datenbank, dem ETL-Prozess mit Aufbau eines Datawarehouses sowie der Auswertung der in das erstellte Datawarehouse geladenen Daten aufgelistet.
